@@ -1,6 +1,3 @@
-#Parametric Fibonacci Spirals
+Fibonacci Spirals
 
-
-
-
-
+<img src="spiralpy_main.gif">
